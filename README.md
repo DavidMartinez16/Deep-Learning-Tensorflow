@@ -10,6 +10,10 @@ Human Activity Recognition (HAR) has been a challenging problem yet it needs to 
 
 The [Dataset](https://www.cis.fordham.edu/wisdm/dataset.php) contains data collected through controlled, laboratory conditions.
 
+### Results
+
+The Convolutional Neural Network is capable of classify all the classes with a 88 % of accuracy, it's important to mention that in order to get a better performance you can use more data or create a deeper neural network as well.
+
 ### Raw Time Series Data
 * Number of examples: 1,098,207
 * Number of attributes: 6
@@ -22,10 +26,3 @@ The [Dataset](https://www.cis.fordham.edu/wisdm/dataset.php) contains data colle
     * Sitting: 59,939 (5.5%)
     * Standing: 48,395 (4.4%)
  
-For this case, i built a Convolutional Neural Network to classify each class, and I got accuracy values for the training and the validation samples closer to 90 %, in the following picture you'll see the training curve.
-
-![tc](https://user-images.githubusercontent.com/63115543/94209803-cc085580-fe92-11ea-96d3-154c34cfa567.jpg)
-
-And for the testing samples i got the following confusion matrix with 88 % of accuracy.
-
-![cm](https://user-images.githubusercontent.com/63115543/94209800-c9a5fb80-fe92-11ea-9645-d9b12af87208.jpg)
