@@ -34,11 +34,15 @@ There’s no more vital metric for a SaaS company to keep track of than churn: t
 
 Churn analysis is the evaluation of a company’s customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by assessing your product and how people use it.
 
+#### Project Overview
+
 This project uses an Artificial Neural Network to predict whether a customer will leave or not the company by analyzing features such as Tenure, Age, Balance, Number of Products, Estimated Salary, whether or not is an active member, among others.
 
 The created model predicts with an 86.7 % accuracy the customer churn.
 
 ## More Projects
+
+In this repository you'll find this project as well.
 
 * Bank Customer Satisfaction
 * CNN for Cifar10
