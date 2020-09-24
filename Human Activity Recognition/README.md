@@ -18,6 +18,12 @@ The [Dataset](https://www.cis.fordham.edu/wisdm/dataset.php) contains data colle
  
 For this case, i built a Convolutional Neural Network to classify each class, and I got accuracy values for the training and the validation samples closer to 90 %, in the following picture you'll see the training curve.
 
+### The structure of the CNN
+
+![cnn](https://user-images.githubusercontent.com/63115543/94210276-e262e100-fe93-11ea-84f9-bd4b9c15d609.jpg)
+
+### Training Curve
+
 ![tc](https://user-images.githubusercontent.com/63115543/94209803-cc085580-fe92-11ea-96d3-154c34cfa567.jpg)
 
 And for the testing samples i got the following confusion matrix with 88 % of accuracy.
