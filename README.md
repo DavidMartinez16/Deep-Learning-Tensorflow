@@ -10,11 +10,11 @@ Human Activity Recognition (HAR) has been a challenging problem yet it needs to 
 
 The [Dataset](https://www.cis.fordham.edu/wisdm/dataset.php) contains data collected through controlled, laboratory conditions.
 
-### Results
+#### Results
 
 The Convolutional Neural Network is capable of classify all the classes with a 88 % accuracy, it's important to mention that in order to get a better performance you can use more data or create a deeper neural network as well.
 
-### Raw Time Series Data
+#### Raw Time Series Data
 * Number of examples: 1,098,207
 * Number of attributes: 6
 * Missing attribute values: None
@@ -26,3 +26,4 @@ The Convolutional Neural Network is capable of classify all the classes with a 8
     * Sitting: 59,939 (5.5%)
     * Standing: 48,395 (4.4%)
  
+## Movie Poster Classification
