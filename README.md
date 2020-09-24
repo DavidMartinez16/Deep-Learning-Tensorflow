@@ -12,7 +12,7 @@ The [Dataset](https://www.cis.fordham.edu/wisdm/dataset.php) contains data colle
 
 ### Results
 
-The Convolutional Neural Network is capable of classify all the classes with a 88 % of accuracy, it's important to mention that in order to get a better performance you can use more data or create a deeper neural network as well.
+The Convolutional Neural Network is capable of classify all the classes with a 88 % accuracy, it's important to mention that in order to get a better performance you can use more data or create a deeper neural network as well.
 
 ### Raw Time Series Data
 * Number of examples: 1,098,207
