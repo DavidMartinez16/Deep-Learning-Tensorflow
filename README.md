@@ -26,4 +26,22 @@ The Convolutional Neural Network is capable of classify all the classes with a 8
     * Sitting: 59,939 (5.5%)
     * Standing: 48,395 (4.4%)
  
-## Movie Poster Classification
+## Customer Churn
+
+There’s no more vital metric for a SaaS company to keep track of than churn: the rate at which customers are leaving your business and taking their subscription dollars elsewhere. Churn can be powered by a number of factors, and even small month-on-month increases in churn percentage can be ruinous to planning, so understanding what churn is and how to analyze it is paramount.
+
+#### ¿What is Churn Analysis?
+
+Churn analysis is the evaluation of a company’s customer loss rate in order to reduce it. Also referred to as customer attrition rate, churn can be minimized by assessing your product and how people use it.
+
+This project uses an Artificial Neural Network to predict whether a customer will leave or not the company by analyzing features such as Tenure, Age, Balance, Number of Products, Estimated Salary, whether or not is an active member, among others.
+
+The created model predicts with an 86.7 % accuracy the customer churn.
+
+## More Projects
+
+* Bank Customer Satisfaction
+* CNN for Cifar10
+* Fashion MNIST
+* Malaria Parasite Detection
+* Movie Poster Classification
