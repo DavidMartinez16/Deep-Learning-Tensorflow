@@ -45,7 +45,9 @@ The created model predicts with an 86.7 % accuracy the customer churn.
 In this repository you'll find this project as well.
 
 * Bank Customer Satisfaction
+* Google Stock Price Prediction
 * CNN for Cifar10
 * Fashion MNIST
 * Malaria Parasite Detection
 * Movie Poster Classification
+
