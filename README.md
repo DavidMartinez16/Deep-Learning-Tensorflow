@@ -51,3 +51,6 @@ In this repository you'll find this project as well.
 * Malaria Parasite Detection
 * Movie Poster Classification
 
+## Acknowledgement
+
+[Laxmi Kant](https://github.com/laxmimerit)
