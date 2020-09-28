@@ -44,12 +44,13 @@ The created model predicts with an 86.7 % accuracy the customer churn.
 
 In this repository you'll find this project as well.
 
+* Movie Poster Classification
+* Malaria Parasite Detection
 * Bank Customer Satisfaction
 * Google Stock Price Prediction
+* Airline Passenger Prediction
 * CNN for Cifar10
 * Fashion MNIST
-* Malaria Parasite Detection
-* Movie Poster Classification
 
 ## Acknowledgement
 
